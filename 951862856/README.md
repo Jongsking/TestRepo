@@ -1,7 +1,6 @@
 <header>    
    <h3>introduction</h>
 </header>
-### introduction
 <table>
    <tr>  <td>name</td><td>sex</td><td>age</td><td>address</td><td>height</td><td>email</td><td>major</td>  </tr>
    <tr>  <td>钟琴</td><td>女</td><td>22</td><td>杭州</td><td>164cm</td><td>951862856@qq.com</td><td>计算机科学与技术</td>  </tr>
