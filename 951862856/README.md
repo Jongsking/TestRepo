@@ -1,11 +1,9 @@
 <header>    
    <h3>introduction</h>
 </header>
-<table>
-   <tr>  <td>name</td><td>sex</td><td>age</td><td>address</td><td>height</td><td>email</td><td>major</td>  </tr>
-   <tr>  <td>钟琴</td><td>女</td><td>22</td><td>杭州</td><td>164cm</td><td>951862856@qq.com</td><td>计算机科学与技术</td>  </tr>
-</table>
-
+name | sex | age | major | address | email
+ ---|---|---|---|---|---
+钟琴 | 女 | 22 | 计算机科学与技术 | 杭州 | 951862856@qq.com
 ####专业技能
 + 熟练掌握多门编程语言，重点掌握Java编程且掌握较好
 + 熟悉Java高级框架，如Spring、Hibernate、Struts等
