@@ -1,7 +1,4 @@
-<header>    
-   <h3>introduction</h>
-</header>
-
+##introduction
 name | sex | age | major | address | email
  ---|---|---|---|---|---
 钟琴 | 女 | 22 | 计算机科学与技术 | 杭州 | 951862856@qq.com
